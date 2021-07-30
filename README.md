@@ -7,7 +7,7 @@ We have used Java Applet Programming along with Derby Database for the following
 You need NetBeans IDE along with some prerequisite knowledge of databases.
 
 Step 1: Install [Netbeans](https://netbeans.apache.org/download/index.html)\
-Step 2: You will need JAVA JDK.\
+Step 2: You will need JAVA [JDK](https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html) \
 Step 3: You have to connect your database with the Netbeans or use the default DERBY Database.
 
 ## Welcome Page Code

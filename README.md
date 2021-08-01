@@ -1,6 +1,6 @@
 # Voting-Management-System
 
-We have used Java Applet Programming along with Derby Database for the following project
+We have used Java Applet Programming along with Derby Database for the following project. You can use any database of your choice.
 
 ## Installation
 
